@@ -13,7 +13,7 @@
 
 ---
 
-### Category Name 2
+### Class Projects
 
 - [Multiple Linear Regression project](https://BeliseKundaTeta.github.io/Projects/Data-Management-course-Project.html)
 - [Data Modeling project](https://BeliseKundaTeta.github.io/Projects/STAT-240-Project.html)
